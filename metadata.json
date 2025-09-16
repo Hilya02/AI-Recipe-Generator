@@ -1,0 +1,5 @@
+{
+  "name": "AI-Enhanced Recipe Generator",
+  "description": "A web application that demonstrates an AI-enhanced development workflow by generating recipes from a list of ingredients using the Gemini API.",
+  "requestFramePermissions": []
+}
